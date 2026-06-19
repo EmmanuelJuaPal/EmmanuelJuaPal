@@ -1,11 +1,9 @@
 ## Hi there 👋
 
-<!--
+###
 **EmmanuelJuaPal/EmmanuelJuaPal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-Cytometry in R
+### Cytometry in R
 Location: Mexico City, Mexico
 My favourite fluorophore: Alexa Fluor 488
 Previous Coding Experience: Basic
